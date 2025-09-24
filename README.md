@@ -1,4 +1,4 @@
-# Breast Cancer morality prediction project
+# Breast Cancer mortality prediction project
 A machine learning project for predicting breast cancer mortality status and survival months using clinical data.
 
 ## Project Overview
