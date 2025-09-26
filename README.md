@@ -50,7 +50,7 @@ This project develops predictive models to assess breast cancer prognosis throug
 - Unpruned Decision Tree: MSE = 2.21 (higher accuracy but overfit risk)
 - Trade-off: Pruning reduces overfitting while maintaining reasonable error
 ## Technical Stack
-- Programming Language: Python 3.x
+- Programming Language: Python 3.10
 - Libraries: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 - Tools: Jupyter Notebook, GridSearchCV, VotingClassifier
 
