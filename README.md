@@ -8,7 +8,7 @@ This project develops predictive models to assess breast cancer prognosis throug
 
 - **Regression:** Estimating survival months for patients
 
-## DataSet & Preprocessing
+## Dataset & Preprocessing
 - **Dataset:** Clinical breast cancer patient data
 
 - **Preprocessing Steps:**
